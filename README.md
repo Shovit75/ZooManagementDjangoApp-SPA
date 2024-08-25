@@ -1,1 +1,1 @@
-# ZooManagementDjangoApp-SPA
+# ZooManagementDjangoApp
