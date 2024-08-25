@@ -126,6 +126,6 @@ MEDIA_ROOT = BASE_DIR / 'media'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 #For Instamojo Setup
-API_KEY = #Your API_KEY
-AUTH_TOKEN = #Your Auth_Token
-SALT = #Your SALT
+#API_KEY = Your API_KEY
+#AUTH_TOKEN = Your Auth_Token
+#SALT = Your SALT
