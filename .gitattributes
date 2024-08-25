@@ -1,0 +1,9 @@
+# Python files
+*.py text diff=python
+
+# Binary files
+*.png binary
+*.jpg binary
+*.gif binary
+*.pdf binary
+*.zip binary
