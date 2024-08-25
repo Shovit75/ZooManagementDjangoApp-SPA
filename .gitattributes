@@ -1,12 +1,1 @@
-# End-of-line normalization for all text files
-* text=auto
-
-# Apply Python diff settings to all files
-* text diff=python
-
-# Treat specific file types as binary if necessary
-*.png binary
-*.jpg binary
-*.gif binary
-*.pdf binary
-*.zip binary
+*.py linguist-language=Python
